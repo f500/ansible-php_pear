@@ -1,0 +1,4 @@
+---
+
+- name: install php-pear
+  apt: pkg=php-pear state=present
